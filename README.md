@@ -13,11 +13,6 @@
 - Tecnologías: Stack tecnológico empleado.
 - [Enlace al Repositorio]
 
-### 3. 📱 Aplicación Móvil
-- Descripción: Detalles sobre la app y su objetivo.
-- Tecnologías: Plataforma y herramientas usadas.
-- [Enlace al Repositorio]
-
 ## Contribuciones a Proyectos Open Source
 - [Nombre del Proyecto]: Breve descripción de tu contribución.
 - [Nombre del Proyecto]: Resumen de tu aporte.
